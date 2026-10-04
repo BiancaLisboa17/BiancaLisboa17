@@ -15,9 +15,6 @@ Minha jornada está apenas começando, e meu objetivo aqui no GitHub é registra
 
 Gosto de entender **como as coisas funcionam**, transformar problemas em soluções e aprender colocando a mão na massa.
 
-> 💡 Não estou aqui apenas para aprender tecnologia.  
-> Estou aqui para aprender a **criar com tecnologia**.
-
 ---
 
 ## 🎓 Formação
